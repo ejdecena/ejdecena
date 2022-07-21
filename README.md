@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🤝🏻 &nbsp; Get in touch
+### 🛠 &nbsp; On my toolbox.
+
+### 🤝🏻 &nbsp; Get in touch.
 
 <a href="https://linkedin.com/in/ejdecena"><img src="https://img.shields.io/static/v1?message=LinkedIn&label=&style=flat&logo=LinkedIn&color=0A66C2&labelColor=0A66C2&logoColor=ffffff"/></a>&nbsp;<a href="https://twitter.com/ejdecena"><img src="https://img.shields.io/static/v1?message=Twitter&label=&style=flat&logo=Twitter&color=1DA1F2&labelColor=1DA1F2&logoColor=ffffff"/></a>&nbsp;<a href="https://instagram.com/ejdecena"><img src="https://img.shields.io/static/v1?message=Instagram&label=&style=flat&logo=Instagram&color=E4405F&labelColor=E4405F&logoColor=ffffff"/></a>&nbsp;
