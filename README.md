@@ -1,7 +1,7 @@
-### Hi there, I am Edgard Decena. 👋
+### Hi there, I am Edgard Decena 👋
 ### Python Developer.
 
-Experience in software development in Python language. Advanced knowledge of MySQL, PostgreSQL and MariaDB database managers. Experience in Data Mining, Machine Learning, Numerical Analysis.
+Experience in software development in *Python* language. Advanced knowledge of *MySQL*, *PostgreSQL* and *MariaDB* database managers. Experience in *Data Mining*, *Machine Learning*, *Numerical Analysis*.
 
 ⭐  **Certified in Python programming.**
 
