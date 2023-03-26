@@ -1,6 +1,8 @@
 ### Hi there, I am Edgard Decena. 👋
 ### Python Developer.
 
+Experience in software development in Python language. Advanced knowledge of MySQL, PostgreSQL and MariaDB database managers. Experience in Data Mining, Machine Learning, Numerical Analysis.
+
 <!--
 **ejdecena/ejdecena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
