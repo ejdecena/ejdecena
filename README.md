@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?message=PostgreSQL&label=&style=flat&logo=PostgreSQL&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 <img src="https://img.shields.io/static/v1?message=MongoDB&label=&style=flat&logo=MongoDB&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 <img src="https://img.shields.io/static/v1?message=Redis&label=&style=flat&logo=Redis&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
-<img src="https://img.shields.io/static/v1?message=Github Actions&label=&style=flat&logo=Github Actions&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp; <img src="https://img.shields.io/static/v1?message=Flask&label=&style=flat&logo=Flask&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
+<img src="https://img.shields.io/static/v1?message=Flask&label=&style=flat&logo=Flask&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
+<img src="https://img.shields.io/static/v1?message=FastAPI&label=&style=flat&logo=FastAPI&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
+<img src="https://img.shields.io/static/v1?message=Github Actions&label=&style=flat&logo=Github Actions&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 
 ### 🤝🏻 &nbsp; Get in touch.
 
