@@ -22,7 +22,7 @@ Experience in software development in *Python* language. Advanced knowledge of *
 
 ⭐  **Tools for daily work:**
 
-       ✔ Git, Docker, DevOps.
+       ✔ Linux, Git, Docker.
 
 ### 🛠 &nbsp; On my toolbox.
 
