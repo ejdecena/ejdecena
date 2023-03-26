@@ -24,20 +24,6 @@ Experience in software development in *Python* language. Advanced knowledge of *
 
        ✔ Git, Docker, DevOps.
 
-<!--
-**ejdecena/ejdecena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 🛠 &nbsp; On my toolbox.
 
 <img src="https://img.shields.io/static/v1?message=Linux&label=&style=flat&logo=Linux&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
@@ -57,4 +43,4 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ejdecena"><img src="https://img.shields.io/static/v1?message=LinkedIn&label=&style=flat&logo=LinkedIn&color=0A66C2&labelColor=0A66C2&logoColor=ffffff"/></a>&nbsp;
 <a href="https://twitter.com/ejdecena"><img src="https://img.shields.io/static/v1?message=Twitter&label=&style=flat&logo=Twitter&color=1DA1F2&labelColor=1DA1F2&logoColor=ffffff"/></a>&nbsp;
 <a href="https://instagram.com/ejdecena"><img src="https://img.shields.io/static/v1?message=Instagram&label=&style=flat&logo=Instagram&color=E4405F&labelColor=E4405F&logoColor=ffffff"/></a>&nbsp;
-<a href="https://instagram.com/ejdecena"><img src="https://img.shields.io/static/v1?message=Telegram&label=&style=flat&logo=Telegram&color=E4405F&labelColor=E4405F&logoColor=ffffff"/></a>&nbsp;
+<a href="https://instagram.com/ejdecena"><img src="https://img.shields.io/static/v1?message=Telegram&label=&style=flat&logo=Telegram&color=0A66C2&labelColor=E4405F&logoColor=ffffff"/></a>&nbsp;
