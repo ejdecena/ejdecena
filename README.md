@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?message=Docker&label=&style=flat&logo=Docker&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 <img src="https://img.shields.io/static/v1?message=Git&label=&style=flat&logo=Git&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 <img src="https://img.shields.io/static/v1?message=PostgreSQL&label=&style=flat&logo=PostgreSQL&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
+<img src="https://img.shields.io/static/v1?message=MySQL&label=&style=flat&logo=MySQL&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 <img src="https://img.shields.io/static/v1?message=MongoDB&label=&style=flat&logo=MongoDB&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 <img src="https://img.shields.io/static/v1?message=Redis&label=&style=flat&logo=Redis&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
 <img src="https://img.shields.io/static/v1?message=Flask&label=&style=flat&logo=Flask&color=f8f5f5&labelColor=f8f5f5&logoColor=666666"/>&nbsp;
