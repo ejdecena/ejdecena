@@ -3,17 +3,22 @@
 
 Experience in software development in Python language. Advanced knowledge of MySQL, PostgreSQL and MariaDB database managers. Experience in Data Mining, Machine Learning, Numerical Analysis.
 
-⭐  Certified in Python programming.
-⭐  Machine Learning tools:
+⭐  **Certified in Python programming.**
+
+⭐  **Machine Learning tools:**
+
        ✔ Pandas, Numpy, Matplotlib.
        ✔ Scikit-Learn, Statsmodels, Scipy.
        ✔ NLTK, Jupyter Notebook.
-⭐  Operating Systems:
+
+⭐  **Operating Systems:**
        ✔ OSX, Unix-based, Windows.
-⭐  Databases:
+
+⭐  **Databases**:
        ✔ PostgreSQL, MariaDB.
        ✔ MySQL, SQLite.
-⭐  Tools for daily work:
+
+⭐  **Tools for daily work:**
        ✔ Git, Docker, DevOps.
 
 <!--
