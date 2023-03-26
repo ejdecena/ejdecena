@@ -12,13 +12,16 @@ Experience in software development in Python language. Advanced knowledge of MyS
        ✔ NLTK, Jupyter Notebook.
 
 ⭐  **Operating Systems:**
+
        ✔ OSX, Unix-based, Windows.
 
 ⭐  **Databases**:
+
        ✔ PostgreSQL, MariaDB.
        ✔ MySQL, SQLite.
 
 ⭐  **Tools for daily work:**
+
        ✔ Git, Docker, DevOps.
 
 <!--
